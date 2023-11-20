@@ -3,17 +3,9 @@ I. Team Member
   2. Anjuan Ravichandran
   3. Siddhi Surana Mahaveer
 II. General Outline
-0. Possible need state
-  - Demamd on need state
-  - Cough, cold allergy
-  - Pain care
-  - Face & Body
-  - Hair, sun
-  - Oral
-  - Baby
 1. Kenvue market demography according to seasonality
 a) Winter - Fiscal week(1 - 13) - Siddhi
-  - Demand on the need state
+  - Demand on the need state: Based on T
   - Require heavy, concentrated marketing ad campain strategy on specific need state
 b) Spring - Fiscal week (14 - 16) - Siddhi
   - Demand on the need state
@@ -26,9 +18,12 @@ d) Fall - Fiscal week (31 - 52) - Minh
   - Require heavy, concentrated marketing ad campain strategy on specific need state
 e) All-year around (Accrued report of all 3 members
   - Require a longer strategy
-2) Marketing strategy on the need state 
+2) Promotion and Trade linear gression model
+  - Utilizing Python and excel to create a linear regression model that show the relationship between Kenvnue
+    spending on promotion and total sales over fiscal year of 2021, 2022, 2023
+3) Marketing strategy on the need state 
   - Collect data on Kenvue competitors marketing strategy and trends - Anujan and Siddhi
-  - Analyzing Kenvue Data and market expected growth to forecast the company expected growth in 2024 - Minh
+  - Analyzing Kenvue Data and market expected growth to forecast the company expected growth in sales and marketing expenditure in 2024 based on growing margin - Minh
 III. Required database
 1. For seasonality need state identification
   - Factory POS
@@ -43,11 +38,11 @@ III. Required database
   - Bloomberg / Factset: To gather data on Kenvue (JNJ consumer heal segment) to forecast future sales
 IV. Data management
 1. Cleansing and combining
-  - Utlize Pandas library is identify null value and remove them
+  - Utlize Pandas library and Python is identify null value and remove them
 2. Data analytic
 V. Division of Labor
 1) Cleansing and data management: Minh
 2) External research and data collection: Anujan, Siddhi
-3) Data visualization: Minh, Anujan
+3) Data visualization: Minh, Anujan, Siddhi
 4) Presentation: Minh, Anujan, Siddhi
 
