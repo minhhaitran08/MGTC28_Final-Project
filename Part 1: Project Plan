@@ -5,7 +5,7 @@ I. Team Member
 II. General Outline
 1. Kenvue market demography according to seasonality
 a) Winter - Fiscal week(1 - 13) - Siddhi
-  - Demand on the need state: Based on T
+  - Demand on the need state
   - Require heavy, concentrated marketing ad campain strategy on specific need state
 b) Spring - Fiscal week (14 - 16) - Siddhi
   - Demand on the need state
@@ -21,6 +21,7 @@ e) All-year around (Accrued report of all 3 members
 2) Promotion and Trade linear gression model
   - Utilizing Python and excel to create a linear regression model that show the relationship between Kenvnue
     spending on promotion and total sales over fiscal year of 2021, 2022, 2023
+==> Suggest which need state require additional promotion power
 3) Marketing strategy on the need state 
   - Collect data on Kenvue competitors marketing strategy and trends - Anujan and Siddhi
   - Analyzing Kenvue Data and market expected growth to forecast the company expected growth in sales and marketing expenditure in 2024 based on growing margin - Minh
