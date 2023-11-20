@@ -41,6 +41,7 @@ IV. Data management
 1. Cleansing and combining
   - Utlize Pandas library and Python is identify null value and remove them
 2. Data analytic
+  - Creating charts, extract insight from raw data to provide the needed information for the presentation
 V. Division of Labor
 1) Cleansing and data management: Minh
 2) External research and data collection: Anujan, Siddhi
